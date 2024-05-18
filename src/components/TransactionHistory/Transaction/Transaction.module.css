@@ -1,0 +1,12 @@
+.type {
+  font-weight: 700;
+}
+
+.amount {
+  font-style: italic;
+  font-weight: 500;
+}
+
+.currency {
+  font-weight: 500;
+}

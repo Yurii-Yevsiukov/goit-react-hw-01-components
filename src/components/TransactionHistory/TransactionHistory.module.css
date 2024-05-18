@@ -1,0 +1,19 @@
+.transactionHistory {
+  box-sizing: border-box;
+  width: 600px;
+  padding: 10px;
+  border: 2px solid grey;
+}
+
+td,
+th {
+  padding: 10px;
+}
+
+th {
+  background-color: #00bcd5;
+}
+
+tr:nth-child(2n) {
+  background-color: #cccccc;
+}
