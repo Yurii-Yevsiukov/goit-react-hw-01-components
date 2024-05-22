@@ -19,7 +19,7 @@
   font-weight: 600;
 }
 
-.status {
+.statusOffline {
   width: 12px;
   height: 12px;
   background-color: red;
@@ -27,7 +27,7 @@
   text-align: center;
 }
 
-.online {
+.statusOnline {
   width: 12px;
   height: 12px;
   background-color: green;
